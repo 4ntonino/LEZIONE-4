@@ -1,0 +1,208 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #eaeded;
+}
+#logo_amazon {
+  margin-top: 7px;
+  margin-left: 14px;
+  width: 100px;
+}
+
+header div {
+  background-color: #222f3e;
+  height: 65px;
+}
+
+header nav {
+  background-color: #354758;
+  height: 29px;
+}
+
+#lista {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  float: left;
+  list-style: none !important;
+  display: flex;
+  padding: 4px;
+}
+
+.lista_nav {
+  padding: 0 15px;
+  color: #ffffff;
+}
+
+.lista a {
+  text-decoration: none;
+}
+
+main {
+  max-width: 98%;
+  margin: auto;
+}
+
+#rettangolo {
+  background-color: #f56600;
+  height: 25px;
+  text-align: center;
+  margin: 30px 0;
+  padding-top: 6px;
+}
+
+#rettangolo span {
+  color: white;
+
+}
+
+#holiday_gift {
+  max-width: 100%;
+  background-image: url(assets/bg-image.png);
+  height: 80px;
+  text-align: center;
+  margin-bottom: 50px;
+  padding-top: 50px;
+}
+
+#holiday_gift span {
+  color: white;
+  font-weight: 600;
+  font-size: 30px;
+ 
+}
+
+
+.immagini {
+  width: 260px;
+  height: 300px;
+  border-radius: 30px;
+  box-shadow: 4px 4px 20px #26292e;
+  margin-left: 30px;
+}
+
+#blocco_immagini {
+  padding: 30px;
+  height: 360px;
+  background-color: white;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+
+
+#insieme_blocco {
+  padding: 40px 30px;
+  margin: auto;
+  max-width: 100%;
+}
+
+#blocco1 {
+  background-color: white;
+  width: 24%;
+  height: 470px;
+  display: relative;
+  margin-right: 13px;
+  float: left;
+
+}
+
+#blocco2 {
+  background-color: white;
+  width: 24%;
+  height: 470px;
+  position: relative;
+  margin-right: 13px;
+  float: left;
+  ;
+}
+
+.new {
+    position: absolute;
+    width: 60px;
+    bottom: 53%;
+    left: 37%;
+  }
+  
+#blocco3 {
+  background-color: white;
+  width: 24%;
+  height: 470px;
+  position: relative;
+  margin-right: 13px;
+  float: left;
+}
+
+#blocco4 {
+  background-color: white;
+  width: 24%;
+  height: 470px;
+  display: inline-block;
+}
+.img {
+  width: 250px;
+  display: inline-block;
+  object-fit: cover;
+  padding:50px 0 20px 20px;
+}
+
+
+
+.header {
+  padding-bottom: 40px;
+  font-size: 20px;
+  font-weight: 500;
+  font-weight: bold;
+  position: absolute;
+}
+
+#letto {
+  height: 155.74px;
+}
+
+
+
+#visore {
+  width: 100%;
+}
+
+#div_visore {
+  text-align: center;
+}
+
+#div_marshall img {
+  width: 100%;
+}
+
+#div_marshall {
+  text-align: center;
+}
+
+#footer_div {
+  margin-top: 40px;
+  background-color: #354759;
+  height: 35px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+#footer_div a {
+  color: white;
+}
+
+#footer_logo {
+  background-color: #222f3e;
+  height: 100px;
+}
+
+#footer_logo img {
+  width: 150px;
+  display: block;
+  margin: auto;
+  padding: 30px;
+}
